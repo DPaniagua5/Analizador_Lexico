@@ -1,0 +1,20 @@
+if: Es una palabra reservada 
+Token: ParentesisAbre
+x: Es un Identificador
+Simbolo no definido
+5: Es un Numero
+Token: ParentesisCierre
+Token: CorcheteAbre
+printf: Es una palabra reservada 
+Token: ParentesisAbre
+Token: Porcentaje
+d: Es un Identificador
+es: Es un Identificador
+menor: Es un Identificador
+que: Es un Identificador
+5: Es un Numero
+x: Es un Identificador
+Token: ParentesisCierre
+Token: Puntoycoma
+Token: CorcheteCierre
+FIN
